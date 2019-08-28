@@ -6,8 +6,9 @@ description: It has been set up very quickly
 ---
 And lets do some code example
 
-\`\``js
+```js
+function(){
+  console.log('Hello World');
+}
 
-console.log('Hello World');
-
-\`\``
+```
